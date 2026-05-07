@@ -1,4 +1,5 @@
-**Replication package for Fillon & Guivarch, "The need for regulation of climate subsystems"**
+**Replication package for Fillon & Guivarch, "Valuing climate subsystems:
+an application to the Amazon rainforest"**  
 Details for replication are in replication_package.pdf  
 
 **Data**    
