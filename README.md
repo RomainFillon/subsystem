@@ -3,7 +3,7 @@
 Data
 
 
-**Step 1 - calibration of Amazon dynamics**
+**Step 1 - calibration of Amazon dynamics**  
 **Step 1A**
 run analysis_figures/calibration_dynamics/estimation.R
 this step uses temperature data from ISIMIP 2B
