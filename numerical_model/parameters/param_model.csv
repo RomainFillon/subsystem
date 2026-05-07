@@ -1,0 +1,42 @@
+scenario;0;scenario kriegler calibration
+dim;3;number of state variables
+T;120;time horizon (number of time steps)
+deltaT;5;time step (in years)
+theta;1.5;intertemporal elasticity of substitution
+rho1y;0.015;pure-time preference rate
+POP0;7403;2015 world population millions
+GPOP0;0.134;Growth rate of population per year
+POPASYM;11500;Asymptotic population 
+A0;0.04063;Initial level of total factor productivity (2015) A=5.115*(1000^(1-gamma))
+valuation;0;
+id_scenarios;0;
+GA0;0.076;Initial growth rate for technology per period 2008 (0.076)
+DELA;0.005;Decline rate of technol change per year 2008 (default 0.005 per period)
+delta1y;0.1;Depreciation rate on capital per year
+alpha;0.3;Capital elasticity in production function
+Y0;105.5;2015 world gross output trill 2010 US dollars (T$)
+K0;223;2015 value capital trill 2010 US dollars (T$)
+SIG0;0.00035032;emission factor kgC/ $2015 (new calculation using e0/q0*(1-miu0) (2015 0.3502)
+GSIGMA;0.038;Initial degrowth of sigma per year (default value: .0152)
+DSIG;0.001;Decline rate of decarbonization per period (default value: .001 per period)
+theta2;2.6;Exponent of control cost function (default value: 2.6)
+PBACK;550;Cost of backstop 2015 $ per tC 2010 (default value: 550)
+GBACK;0.025;Initial cost decline 2015 backstop pc per year (default value: .025)
+pi1;0;mean damage function parameter
+pi2;0.00236;mean damage function parameter (default value: 0.0028388)
+pi3;2;curvature of damage function (default value: 2 (Nordhaus), 6 for Weitzman 2012)
+T0;0.85;calibration value for temperature increase wrt preindustrial era
+epsilon0;0.001;to avoid sign = 0 in the Bellman function
+damage_capital;0;
+carbonstock_amz;0.075;carbon stock amazon (in tTC)
+TREE0;1;initial forest cvoer
+total_area;7.5;total area in million  km2 calculated from souza shapefile
+id_climate;0;if we include impact of climate ch
+ratio_deg;2;ratio def/degradation (Matricardi)
+rTCRE;2;global temp to regional temp from Leduc et al. (2/1.65) to be divided by 1.65
+TCRE_min;0;IPCC 
+TCRE_max;3.5;IPCC 
+TCRE_mean;1.73;IPCC 
+min_s;0;minimum shock (shock centered on zero, interval to be mutiplied by mean_shock)
+max_s;1;maximum shock
+sdeviation;0.493;coefficient in case of betalaw
