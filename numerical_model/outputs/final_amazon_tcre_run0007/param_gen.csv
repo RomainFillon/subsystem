@@ -1,0 +1,9 @@
+stochastic;0
+CPU;128
+draws;0
+tolintabs;0.001
+tolintrel;0.0001
+tol_simulation;0.0001
+deg1;3
+deg2;4
+deg3;8
