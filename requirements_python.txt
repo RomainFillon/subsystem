@@ -1,0 +1,13 @@
+# Python environment for replication
+# Paper: The need for regulation of climate subsystems
+#
+# Python 3.11.5
+# Platform: Linux (server, miniconda3 env "my_env")
+#
+# Install with: pip install -r requirements.txt
+
+numpy==2.3.4
+scipy==1.16.3
+pandas==2.3.3
+pyparsing==3.2.5
+multiprocess==0.70.15
