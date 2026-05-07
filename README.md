@@ -1,4 +1,5 @@
 **Replication package for Fillon & Guivarch, "The need for regulation of climate subsystems"**
+Details for replication are in replication_package.pdf  
 
 **Data**    
 Most data are in analysis_figures/data/  
