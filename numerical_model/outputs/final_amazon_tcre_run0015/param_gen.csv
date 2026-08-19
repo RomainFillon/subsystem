@@ -1,5 +1,5 @@
 stochastic;1
-CPU;128
+CPU;32
 draws;10000
 tolintabs;0.001
 tolintrel;0.0001
